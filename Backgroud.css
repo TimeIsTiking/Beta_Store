@@ -1,0 +1,13 @@
+/* Rounded Button Style */
+.chair button {
+  border-radius: 20px; /* Adjust the value to change the roundness */
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.chair button:hover {
+  background-color: #0056b3;
+}
